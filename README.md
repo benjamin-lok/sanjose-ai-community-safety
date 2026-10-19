@@ -1,2 +1,2 @@
-# sanjose-ai-abandoned-vehicles
-Abandoned vehicles in San José take up parking spaces, create safety concerns, and contribute to neighborhood blight. This project uses AI to simplify reporting by collecting vehicle details, location, and descriptions, identifying missing information, and generating organized reports for city staff.
+# sanjose-ai-gaming-for-disabled
+AI-powered tool that helps gamers with limited mobility find alternative controls, accessible game settings, and adaptive devices through personalized recommendations tailored to their needs.
