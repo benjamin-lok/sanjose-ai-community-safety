@@ -1,20 +1,24 @@
-# AccessPlay AI: AI for accessible video game controls
+# CivicClear: AI for Safer Community Reporting
 
-**Project:** Independent AI-enabled social-impact startup  
-**Focus area:** Gaming accessibility  
-**Team:** [Your name], Oct 2026  
-**My part:** Designed the concept for an AI-powered tool that helps gamers with limited mobility find accessible control options.
+**Client:** City of San José  
+**Project:** AI Consulting Project  
+**Team:** [Add your team members]  
+**My part:** Contributed to designing and prototyping an AI-assisted reporting workflow for unsafe conditions related to unsheltered homelessness.
 
 ## The problem
 
-Gamers with limited mobility or motor-control challenges may struggle with games that require rapid button presses, simultaneous inputs, or precise movements. Finding games with suitable accessibility settings and learning how to configure alternative controls can be difficult and time-consuming.
+Residents may have difficulty submitting clear, complete reports about unsafe conditions related to unsheltered homelessness. Incomplete or unclear submissions can make it harder for city staff to understand an issue and determine the appropriate next steps.
 
 ## What we built
 
-- Designed a workflow that collects players' gaming preferences and accessibility needs.
-- Planned personalized recommendations for accessible game settings, alternative input methods, and adaptive controllers.
-- Designed the system to provide recommendations and setup instructions while leaving control choices to the player.
+- Developed a prototype that collects resident descriptions, locations, issue types, urgency, and optional photos.
+- Used AI-assisted structured extraction to organize submissions, identify missing information, and suggest an appropriate City department.
+- Designed a staff-review workflow that allows human reviewers to edit reports, request more information, approve submissions, or reject them.
 
 ## What I would do next
 
-I would build a working prototype with verified information about game accessibility features, interview gamers with different mobility needs, and improve the recommendations based on their feedback.
+I would test the prototype with representative users, measure the accuracy of report categorization, and improve privacy protections and human oversight before considering any real-world deployment.
+
+## Limitations
+
+CivicClear is a course prototype and is not connected to the City of San José's operational databases or reporting systems.
