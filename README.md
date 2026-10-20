@@ -23,10 +23,4 @@ I would test the prototype with representative users, measure the accuracy of re
 
 CivicClear is a course prototype and is not connected to the City of San José's operational databases or reporting systems.
 
-echo "# San-Jose-Homelessness-Safety-Reporter" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/benjamin-lok/San-Jose-Homelessness-Safety-Reporter.git
-git push -u origin main
+
